@@ -1,6 +1,6 @@
-import React from "react";
+import React from "react"; // Imports react
 
-function Greeting() {
+function Greeting() { // Greeting function
     return (
         <div>
             <h2>Hello from the Greeting Component!</h2>
@@ -9,4 +9,4 @@ function Greeting() {
     );
 };
 
-export default Greeting;
+export default Greeting; // Exports greeting
